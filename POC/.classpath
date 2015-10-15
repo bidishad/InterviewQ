@@ -22,5 +22,7 @@
 	<classpathentry kind="lib" path="C:/Users/navneet/Downloads/jersey-core-1.1.5.jar"/>
 	<classpathentry kind="lib" path="C:/Users/navneet/Downloads/jackson-core-asl-1.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/navneet/Downloads/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/navneet/Downloads/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/navneet/Downloads/standard.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
